@@ -1,1 +1,1 @@
-<img src="images/layout.png" alt="Layout">
+<img src="./layout.png" alt="Layout">
